@@ -21,7 +21,7 @@ The execution of a dedicated jasp program installation provides immediate deploy
 Deploying this updated software jasp environment delivers perfect verification continuity when managing extensive institutional datasets across multiple research profiles. The client framework relies on human-readable tracking configurations, ensuring that significance levels, prior distribution models, and custom variable tags remain fully customizable within local system overview screens. Because the software maintains rigid structural alignment with secure enterprise Windows desktop environments, distinct analytical divisions can export certified transaction audits without encountering data formatting corruption. This complete application layout provides absolute long-term technical reliability for digital factor tracking, secure corporate value transfer, and auditable network recording operations.
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3F6d4U5Cxvnf-Dr5JYyxEzZ8LOpFXe3_gA&s" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iCMxymc2YJF_EdMlprj6X6baVFtZxsNiaw&s" alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://taylorvaughanrswy.github.io/.github/JASP-Software)
